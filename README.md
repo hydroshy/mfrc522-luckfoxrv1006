@@ -3,6 +3,9 @@ Python library for LuckFox Pico Pro/Max RV1006, based on MFRC522-python library 
 
 I have made some modifications to the library to enable it to run on the LuckFox Pico Pro/Max kit. Thanks to pimylifeup for providing a great library for the MFRC522 module.
 
+## License
+All rights belong to pimylifeup. This is just an addition to the kit's I/O pin configuration.
+
 ## Notes:
 
 * The library may depend on the `periphery` library for SPI and GPIO access.
