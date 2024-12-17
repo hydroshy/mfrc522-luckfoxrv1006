@@ -29,6 +29,13 @@ You should check SPI I/O is open once time again. If its have (*) that is opened
 
 ## Installation
 
+~~~
+git clone https://github.com/hydroshy/mfrc522-luckfoxrv1006.git
+
+cd ~source/mfrc522-luckfoxrv1006 
+
+sudo python3 setup.py install
+~~~
 
 
 
